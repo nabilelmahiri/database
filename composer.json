@@ -34,6 +34,5 @@
     "classmap": [
       "tests/BaseTestCase.php"
     ]
-  },
-  "minimum-stability": "stable"
+  } 
 }
